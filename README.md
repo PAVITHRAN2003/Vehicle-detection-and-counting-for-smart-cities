@@ -1,4 +1,4 @@
-# 🚦 Smart City Vehicle Detection & Counting System
+# 🚦 Smart City Vehicle Detection & Counting System [https://vehicle-detection-and-counting-for-smart-cities-kgbeu6sfe9zxn2.streamlit.app/]
 
 An end-to-end **computer vision system** for detecting and counting vehicles in urban traffic scenes using **YOLOv8** and a **Streamlit-based interactive dashboard**.  
 Designed for **smart city analytics**, traffic monitoring, and real-time decision support.
